@@ -1,0 +1,15 @@
+{
+    "SearchScreen" : {
+        "TITLE" : "Discover the world",
+        "CAPTION" : "#Top search of the day",
+        "HASHTAGS_SECTION_TITLE" : "Trending hashtags",
+        "COMMUNITY_SECTION_TITLE" : "Top community",
+        "NOMAD_SECTION_TITLE" : "Top nomads",
+        "SEARCH_BAR_PLACEHOLDER" : "Search"
+    },
+    "FeedScreen" : {
+        "TOP_CAPTION" : "For you",
+        "IMAGE_CAPTION_TITLE" : "Caption:",
+        "IMAGE_CAPTION" : "This is a Cool Pic !!"
+    }
+}

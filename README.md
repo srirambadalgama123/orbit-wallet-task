@@ -16,6 +16,14 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
     npx expo start
    ```
 
+ ## Explanation
+1. Created FeedScreen and SearchScreen components.
+2. Implemented a dropdown menu to select between FeedScreen and SearchScreen, with SearchScreen as the default selection.
+3. Added a services directory to manage API calls.
+4. Created App.constants.tsx and labels.json in the constants directory to centralize constants and labels, respectively.
+
+
+
 In the output, you'll find options to open the app in a
 
 - [development build](https://docs.expo.dev/develop/development-builds/introduction/)
